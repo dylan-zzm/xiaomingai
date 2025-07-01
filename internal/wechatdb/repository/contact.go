@@ -5,8 +5,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/sjzar/chatlog/internal/errors"
-	"github.com/sjzar/chatlog/internal/model"
+	"github.com/dylan-zzm/xiaomingai/internal/errors"
+	"github.com/dylan-zzm/xiaomingai/internal/model"
 )
 
 // initContactCache 初始化联系人缓存

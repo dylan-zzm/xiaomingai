@@ -11,12 +11,12 @@ import (
 	"github.com/fsnotify/fsnotify"
 	"github.com/rs/zerolog/log"
 
-	"github.com/sjzar/chatlog/internal/chatlog/ctx"
-	"github.com/sjzar/chatlog/internal/errors"
-	"github.com/sjzar/chatlog/internal/wechat"
-	"github.com/sjzar/chatlog/internal/wechat/decrypt"
-	"github.com/sjzar/chatlog/pkg/filemonitor"
-	"github.com/sjzar/chatlog/pkg/util"
+	"github.com/dylan-zzm/xiaomingai/internal/chatlog/ctx"
+	"github.com/dylan-zzm/xiaomingai/internal/errors"
+	"github.com/dylan-zzm/xiaomingai/internal/wechat"
+	"github.com/dylan-zzm/xiaomingai/internal/wechat/decrypt"
+	"github.com/dylan-zzm/xiaomingai/pkg/filemonitor"
+	"github.com/dylan-zzm/xiaomingai/pkg/util"
 )
 
 var (

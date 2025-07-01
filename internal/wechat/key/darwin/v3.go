@@ -9,10 +9,10 @@ import (
 
 	"github.com/rs/zerolog/log"
 
-	"github.com/sjzar/chatlog/internal/errors"
-	"github.com/sjzar/chatlog/internal/wechat/decrypt"
-	"github.com/sjzar/chatlog/internal/wechat/key/darwin/glance"
-	"github.com/sjzar/chatlog/internal/wechat/model"
+	"github.com/dylan-zzm/xiaomingai/internal/errors"
+	"github.com/dylan-zzm/xiaomingai/internal/wechat/decrypt"
+	"github.com/dylan-zzm/xiaomingai/internal/wechat/key/darwin/glance"
+	"github.com/dylan-zzm/xiaomingai/internal/wechat/model"
 )
 
 const (

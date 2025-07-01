@@ -1,6 +1,6 @@
 package conf
 
-import "github.com/sjzar/chatlog/pkg/config"
+import "github.com/dylan-zzm/xiaomingai/pkg/config"
 
 type Config struct {
 	ConfigDir   string          `mapstructure:"-"`

@@ -4,9 +4,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/sjzar/chatlog/internal/model"
-	"github.com/sjzar/chatlog/internal/wechatdb/datasource"
-	"github.com/sjzar/chatlog/internal/wechatdb/repository"
+	"github.com/dylan-zzm/xiaomingai/internal/model"
+	"github.com/dylan-zzm/xiaomingai/internal/wechatdb/datasource"
+	"github.com/dylan-zzm/xiaomingai/internal/wechatdb/repository"
 
 	_ "github.com/mattn/go-sqlite3"
 )

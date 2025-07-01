@@ -3,9 +3,9 @@ package database
 import (
 	"time"
 
-	"github.com/sjzar/chatlog/internal/chatlog/ctx"
-	"github.com/sjzar/chatlog/internal/model"
-	"github.com/sjzar/chatlog/internal/wechatdb"
+	"github.com/dylan-zzm/xiaomingai/internal/chatlog/ctx"
+	"github.com/dylan-zzm/xiaomingai/internal/model"
+	"github.com/dylan-zzm/xiaomingai/internal/wechatdb"
 )
 
 type Service struct {

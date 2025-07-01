@@ -9,10 +9,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/sjzar/chatlog/internal/errors"
-	"github.com/sjzar/chatlog/pkg/util"
-	"github.com/sjzar/chatlog/pkg/util/dat2img"
-	"github.com/sjzar/chatlog/pkg/util/silk"
+	"github.com/dylan-zzm/xiaomingai/internal/errors"
+	"github.com/dylan-zzm/xiaomingai/pkg/util"
+	"github.com/dylan-zzm/xiaomingai/pkg/util/dat2img"
+	"github.com/dylan-zzm/xiaomingai/pkg/util/silk"
 
 	"github.com/gin-gonic/gin"
 )

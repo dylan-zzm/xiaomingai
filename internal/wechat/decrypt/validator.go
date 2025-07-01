@@ -3,7 +3,7 @@ package decrypt
 import (
 	"path/filepath"
 
-	"github.com/sjzar/chatlog/internal/wechat/decrypt/common"
+	"github.com/dylan-zzm/xiaomingai/internal/wechat/decrypt/common"
 )
 
 type Validator struct {

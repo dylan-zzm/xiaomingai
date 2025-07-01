@@ -1,7 +1,7 @@
 package mcp
 
 import (
-	"github.com/sjzar/chatlog/internal/mcp"
+	"github.com/dylan-zzm/xiaomingai/internal/mcp"
 )
 
 // MCPTools 和资源定义

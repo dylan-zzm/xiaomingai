@@ -6,10 +6,10 @@
 
 _聊天记录工具，帮助大家轻松使用自己的聊天数据_
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/sjzar/chatlog)](https://goreportcard.com/report/github.com/sjzar/chatlog)
-[![GoDoc](https://godoc.org/github.com/sjzar/chatlog?status.svg)](https://godoc.org/github.com/sjzar/chatlog)
-[![GitHub release](https://img.shields.io/github/release/sjzar/chatlog.svg)](https://github.com/sjzar/chatlog/releases)
-[![GitHub license](https://img.shields.io/github/license/sjzar/chatlog.svg)](https://github.com/sjzar/chatlog/blob/main/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dylan-zzm/xiaomingai)](https://goreportcard.com/report/github.com/dylan-zzm/xiaomingai)
+[![GoDoc](https://godoc.org/github.com/dylan-zzm/xiaomingai?status.svg)](https://godoc.org/github.com/dylan-zzm/xiaomingai)
+[![GitHub release](https://img.shields.io/github/release/sjzar/chatlog.svg)](https://github.com/dylan-zzm/xiaomingai/releases)
+[![GitHub license](https://img.shields.io/github/license/sjzar/chatlog.svg)](https://github.com/dylan-zzm/xiaomingai/blob/main/LICENSE)
 
 </div>
 
@@ -56,12 +56,12 @@ _聊天记录工具，帮助大家轻松使用自己的聊天数据_
 ### 从源码安装
 
 ```bash
-go install github.com/sjzar/chatlog@latest
+go install github.com/dylan-zzm/xiaomingai@latest
 ```
 
 ### 下载预编译版本
 
-访问 [Releases](https://github.com/sjzar/chatlog/releases) 页面下载适合您系统的预编译版本。
+访问 [Releases](https://github.com/dylan-zzm/xiaomingai/releases) 页面下载适合您系统的预编译版本。
 
 ## 使用指南
 
@@ -192,7 +192,7 @@ Chatlog 可以与多种支持 MCP 的 AI 助手集成，包括：
 
 查看 [Prompt 指南](docs/prompt.md) 获取详细示例。
 
-同时欢迎大家分享使用经验和 prompt！如果您有好的 prompt 示例或使用技巧，请通过 [Discussions](https://github.com/sjzar/chatlog/discussions) 进行分享，共同进步。
+同时欢迎大家分享使用经验和 prompt！如果您有好的 prompt 示例或使用技巧，请通过 [Discussions](https://github.com/dylan-zzm/xiaomingai/discussions) 进行分享，共同进步。
 
 ## 免责声明
 

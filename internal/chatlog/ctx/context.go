@@ -4,9 +4,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sjzar/chatlog/internal/chatlog/conf"
-	"github.com/sjzar/chatlog/internal/wechat"
-	"github.com/sjzar/chatlog/pkg/util"
+	"github.com/dylan-zzm/xiaomingai/internal/chatlog/conf"
+	"github.com/dylan-zzm/xiaomingai/internal/wechat"
+	"github.com/dylan-zzm/xiaomingai/pkg/util"
 )
 
 // Context is a context for a chatlog.

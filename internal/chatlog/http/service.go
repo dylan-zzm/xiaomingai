@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/sjzar/chatlog/internal/chatlog/ctx"
-	"github.com/sjzar/chatlog/internal/chatlog/database"
-	"github.com/sjzar/chatlog/internal/chatlog/mcp"
-	"github.com/sjzar/chatlog/internal/errors"
+	"github.com/dylan-zzm/xiaomingai/internal/chatlog/ctx"
+	"github.com/dylan-zzm/xiaomingai/internal/chatlog/database"
+	"github.com/dylan-zzm/xiaomingai/internal/chatlog/mcp"
+	"github.com/dylan-zzm/xiaomingai/internal/errors"
 
 	"github.com/gin-gonic/gin"
 	"github.com/rs/zerolog/log"

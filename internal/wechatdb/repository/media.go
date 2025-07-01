@@ -3,7 +3,7 @@ package repository
 import (
 	"context"
 
-	"github.com/sjzar/chatlog/internal/model"
+	"github.com/dylan-zzm/xiaomingai/internal/model"
 )
 
 func (r *Repository) GetMedia(ctx context.Context, _type string, key string) (*model.Media, error) {

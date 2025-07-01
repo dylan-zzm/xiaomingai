@@ -1,4 +1,4 @@
-module github.com/sjzar/chatlog
+module github.com/dylan-zzm/xiaomingai
 
 go 1.24.0
 
@@ -9,6 +9,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/klauspost/compress v1.18.0
 	github.com/mattn/go-sqlite3 v1.14.27
+	github.com/mutecomm/go-sqlcipher/v4 v4.4.2
 	github.com/pierrec/lz4/v4 v4.1.22
 	github.com/rivo/tview v0.0.0-20250330220935-949945f8d922
 	github.com/rs/zerolog v1.34.0
